@@ -8,6 +8,7 @@ leetcode
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mounikapawar24/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mounikapawar24/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -73,6 +74,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mounikapawar24/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mounikapawar24/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -88,6 +90,7 @@ leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mounikapawar24/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
