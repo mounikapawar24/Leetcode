@@ -6,6 +6,7 @@ leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mounikapawar24/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -109,6 +110,7 @@ leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mounikapawar24/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -134,6 +136,7 @@ leetcode
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mounikapawar24/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Two Pointers
@@ -152,4 +155,12 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/mounikapawar24/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
