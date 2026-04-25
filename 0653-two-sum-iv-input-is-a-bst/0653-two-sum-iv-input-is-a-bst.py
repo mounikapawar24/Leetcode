@@ -1,0 +1,28 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
+        def inorder(root,arr):
+            if(root is None):
+                return
+            inorder(root.left,arr)
+            arr.append(root.val)
+            inorder(root.right,arr)
+        arr=[]
+        inorder(root,arr)
+        l,r=0,len(arr)-1
+        while(l<r):
+            Sum = arr[l]+arr[r]
+            if(Sum==k):
+                return True
+            elif(Sum<k):
+                l+=1
+            elif(Sum>k):
+                r-=1
+        return False
+
+
