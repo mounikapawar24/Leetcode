@@ -8,6 +8,7 @@ leetcode
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mounikapawar24/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mounikapawar24/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -33,6 +34,7 @@ leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mounikapawar24/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mounikapawar24/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -108,6 +110,7 @@ leetcode
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Sorting
@@ -153,6 +156,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -178,6 +182,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
