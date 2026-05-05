@@ -155,6 +155,7 @@ leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/mounikapawar24/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mounikapawar24/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Depth-First Search
@@ -202,4 +203,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mounikapawar24/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/mounikapawar24/Leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
