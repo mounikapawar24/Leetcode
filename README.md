@@ -13,6 +13,7 @@ leetcode
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mounikapawar24/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mounikapawar24/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/mounikapawar24/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mounikapawar24/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mounikapawar24/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -37,6 +38,7 @@ leetcode
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1861-rotating-the-box](https://github.com/mounikapawar24/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mounikapawar24/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mounikapawar24/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -158,6 +160,7 @@ leetcode
 | [0061-rotate-list](https://github.com/mounikapawar24/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mounikapawar24/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/mounikapawar24/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
