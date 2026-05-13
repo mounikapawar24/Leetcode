@@ -11,6 +11,7 @@ leetcode
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mounikapawar24/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mounikapawar24/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mounikapawar24/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mounikapawar24/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mounikapawar24/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -59,6 +60,7 @@ leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mounikapawar24/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/mounikapawar24/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mounikapawar24/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -67,6 +69,7 @@ leetcode
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mounikapawar24/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/mounikapawar24/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mounikapawar24/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/mounikapawar24/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
