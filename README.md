@@ -11,6 +11,7 @@ leetcode
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mounikapawar24/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1340-jump-game-v](https://github.com/mounikapawar24/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/mounikapawar24/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -131,6 +132,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mounikapawar24/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/mounikapawar24/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mounikapawar24/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -155,6 +157,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1340-jump-game-v](https://github.com/mounikapawar24/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mounikapawar24/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/mounikapawar24/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
