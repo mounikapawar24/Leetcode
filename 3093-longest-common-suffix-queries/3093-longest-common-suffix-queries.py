@@ -1,0 +1,48 @@
+from typing import List
+
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.best_idx = -1
+        self.best_len = float('inf')
+
+
+class Solution:
+    def stringIndices(self, wordsContainer: List[str], wordsQuery: List[str]) -> List[int]:
+        root = TrieNode()
+
+        # Update best candidate for a node
+        def update(node, idx, length):
+            if length < node.best_len:
+                node.best_len = length
+                node.best_idx = idx
+
+        # Build trie using reversed words
+        for idx, word in enumerate(wordsContainer):
+            rev = word[::-1]
+            node = root
+
+            update(node, idx, len(word))
+
+            for ch in rev:
+                if ch not in node.children:
+                    node.children[ch] = TrieNode()
+
+                node = node.children[ch]
+                update(node, idx, len(word))
+
+        ans = []
+
+        # Query longest common suffix
+        for word in wordsQuery:
+            rev = word[::-1]
+            node = root
+
+            for ch in rev:
+                if ch not in node.children:
+                    break
+                node = node.children[ch]
+
+            ans.append(node.best_idx)
+
+        return ans
