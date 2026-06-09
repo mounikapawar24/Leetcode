@@ -53,6 +53,7 @@ leetcode
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/mounikapawar24/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mounikapawar24/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mounikapawar24/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -170,6 +171,7 @@ leetcode
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/mounikapawar24/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
