@@ -54,6 +54,7 @@ leetcode
 | [3660-jump-game-ix](https://github.com/mounikapawar24/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mounikapawar24/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mounikapawar24/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -172,6 +173,7 @@ leetcode
 | [3474-lexicographically-smallest-generated-string](https://github.com/mounikapawar24/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +302,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/mounikapawar24/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
