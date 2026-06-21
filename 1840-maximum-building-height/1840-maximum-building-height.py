@@ -1,37 +1,23 @@
 class Solution:
-    def maxBuilding(self, n: int, restrictions: List[List[int]]) -> int:
-        restrictions.append([1, 0])
-        restrictions.append([n, n - 1])
+    def maxBuilding(self, num: int, r: list[list[int]]) -> int:
+        r.append([1, 0])
+        r.sort()
+        n = len(r)
 
-        restrictions.sort()
+        def yCap(x1, y1, x2, y2):
+            return min(y2, y1 + abs(x2 - x1))
 
-        m = len(restrictions)
+        def yPeak(x1, y1, x2, y2):
+            return (y1 + y2 + x2 - x1) >> 1
+        
+        for i in range(1, n):
+            r[i][1] = yCap(*r[i - 1], *r[i])
 
-        # Left to right pass
-        for i in range(1, m):
-            d = restrictions[i][0] - restrictions[i - 1][0]
-            restrictions[i][1] = min(
-                restrictions[i][1],
-                restrictions[i - 1][1] + d
-            )
+        for i in range(n - 2, -1, -1):
+            r[i][1] = yCap(*r[i + 1], *r[i])
 
-        # Right to left pass
-        for i in range(m - 2, -1, -1):
-            d = restrictions[i + 1][0] - restrictions[i][0]
-            restrictions[i][1] = min(
-                restrictions[i][1],
-                restrictions[i + 1][1] + d
-            )
+        res = 0
+        for i in range(1, n):
+            res = max(res, yPeak(*r[i - 1], *r[i]))
 
-        ans = 0
-
-        # Compute maximum possible peak between consecutive restrictions
-        for i in range(1, m):
-            x1, h1 = restrictions[i - 1]
-            x2, h2 = restrictions[i]
-
-            d = x2 - x1
-            peak = (h1 + h2 + d) // 2
-            ans = max(ans, peak)
-
-        return ans
+        return max(res, r[-1][1] + num - r[-1][0])
