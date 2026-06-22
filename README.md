@@ -93,6 +93,7 @@ leetcode
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mounikapawar24/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/mounikapawar24/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/mounikapawar24/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mounikapawar24/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mounikapawar24/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -145,6 +146,7 @@ leetcode
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/mounikapawar24/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/mounikapawar24/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/mounikapawar24/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mounikapawar24/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mounikapawar24/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1871-jump-game-vii](https://github.com/mounikapawar24/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -274,6 +276,7 @@ leetcode
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/mounikapawar24/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/mounikapawar24/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
