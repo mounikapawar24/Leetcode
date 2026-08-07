@@ -138,6 +138,7 @@ leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mounikapawar24/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mounikapawar24/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mounikapawar24/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mounikapawar24/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mounikapawar24/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -185,6 +186,7 @@ leetcode
 | [3093-longest-common-suffix-queries](https://github.com/mounikapawar24/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mounikapawar24/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/mounikapawar24/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mounikapawar24/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/mounikapawar24/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -217,6 +219,7 @@ leetcode
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mounikapawar24/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mounikapawar24/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/mounikapawar24/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -367,6 +370,7 @@ leetcode
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mounikapawar24/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -399,4 +403,8 @@ leetcode
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mounikapawar24/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mounikapawar24/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
