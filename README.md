@@ -455,6 +455,7 @@ leetcode
 | [0196-delete-duplicate-emails](https://github.com/mounikapawar24/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/mounikapawar24/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/mounikapawar24/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/mounikapawar24/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
