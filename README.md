@@ -460,6 +460,7 @@ leetcode
 | [0596-classes-with-at-least-5-students](https://github.com/mounikapawar24/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/mounikapawar24/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mounikapawar24/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/mounikapawar24/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1873-calculate-special-bonus](https://github.com/mounikapawar24/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
