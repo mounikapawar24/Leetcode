@@ -75,6 +75,7 @@ leetcode
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mounikapawar24/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mounikapawar24/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ leetcode
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mounikapawar24/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/mounikapawar24/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
