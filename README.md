@@ -185,6 +185,7 @@ leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/mounikapawar24/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/mounikapawar24/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/mounikapawar24/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mounikapawar24/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -213,6 +214,7 @@ leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/mounikapawar24/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/mounikapawar24/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mounikapawar24/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/mounikapawar24/Leetcode/tree/main/1340-jump-game-v/) | Hard |
