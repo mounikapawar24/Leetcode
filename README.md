@@ -197,6 +197,7 @@ leetcode
 | [0115-distinct-subsequences](https://github.com/mounikapawar24/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/mounikapawar24/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/mounikapawar24/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/mounikapawar24/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/mounikapawar24/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mounikapawar24/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mounikapawar24/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -303,6 +304,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mounikapawar24/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/mounikapawar24/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mounikapawar24/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
@@ -501,4 +503,5 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mounikapawar24/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/mounikapawar24/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
