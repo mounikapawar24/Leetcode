@@ -48,6 +48,7 @@ leetcode
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mounikapawar24/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/mounikapawar24/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mounikapawar24/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mounikapawar24/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/mounikapawar24/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mounikapawar24/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -100,6 +101,7 @@ leetcode
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mounikapawar24/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mounikapawar24/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/mounikapawar24/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
