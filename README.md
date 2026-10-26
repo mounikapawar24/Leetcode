@@ -70,6 +70,7 @@ leetcode
 | [3546-equal-sum-grid-partition-i](https://github.com/mounikapawar24/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mounikapawar24/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mounikapawar24/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mounikapawar24/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -101,6 +102,7 @@ leetcode
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mounikapawar24/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mounikapawar24/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mounikapawar24/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ leetcode
 | [2573-find-the-string-with-lcp](https://github.com/mounikapawar24/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mounikapawar24/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mounikapawar24/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +379,7 @@ leetcode
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mounikapawar24/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mounikapawar24/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mounikapawar24/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +420,7 @@ leetcode
 | [1559-detect-cycles-in-2d-grid](https://github.com/mounikapawar24/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mounikapawar24/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mounikapawar24/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mounikapawar24/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
