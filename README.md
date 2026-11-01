@@ -10,6 +10,7 @@ leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mounikapawar24/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mounikapawar24/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/mounikapawar24/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mounikapawar24/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/mounikapawar24/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/mounikapawar24/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mounikapawar24/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -165,6 +166,7 @@ leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mounikapawar24/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mounikapawar24/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1563-stone-game-v](https://github.com/mounikapawar24/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mounikapawar24/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
