@@ -80,6 +80,7 @@ leetcode
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mounikapawar24/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mounikapawar24/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mounikapawar24/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -284,6 +285,7 @@ leetcode
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mounikapawar24/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mounikapawar24/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ leetcode
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mounikapawar24/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mounikapawar24/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
