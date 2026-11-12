@@ -61,6 +61,7 @@ leetcode
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mounikapawar24/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mounikapawar24/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mounikapawar24/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mounikapawar24/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mounikapawar24/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mounikapawar24/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
