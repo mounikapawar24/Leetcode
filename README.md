@@ -93,6 +93,7 @@ leetcode
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mounikapawar24/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mounikapawar24/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ leetcode
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mounikapawar24/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mounikapawar24/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mounikapawar24/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@ leetcode
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mounikapawar24/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mounikapawar24/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mounikapawar24/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,4 +555,16 @@ leetcode
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mounikapawar24/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mounikapawar24/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/mounikapawar24/Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
